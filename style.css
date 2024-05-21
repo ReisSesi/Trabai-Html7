@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    text-align: center;
+    width: 700px;
+    margin-left: 400px;
+}
+h1,h2,h3,a{
+    color: white;
+    font-family: verdana;
+}
+h2,h3,a{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    border-bottom: solid lime;
+    border-left: solid lime;
+}
+img{
+    width: 600px;
+    border: 2px solid lime;
+}
